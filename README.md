@@ -16,7 +16,7 @@
 
 ![Southern hemisphere lat vs temp](https://user-images.githubusercontent.com/53315287/127255216-99c59e27-9ec1-48a3-ba4c-d0bbd172b47d.png)
 
-### Based off the DataFrame we built for the WeatherPy activity. This map features locations that offer hotels in ideal conditions where the max temperature is between 70-80 degrees Fahrenheit, the wind speed is less than 10 mph, and the cloudiness factor is less than 5.
+### Based off the DataFrame we built for the WeatherPy activity. This map features locations that offer hotels in ideal conditions where the max temperature is between 70-80 degrees Fahrenheit, the wind speed is less than 10 mph, and the cloudiness is less than 5%.
 
 
 ![Heatmap](https://user-images.githubusercontent.com/53315287/127251988-415996a7-4d14-4d20-a4f2-8336a01d81c1.png)
